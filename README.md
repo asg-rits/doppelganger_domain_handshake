@@ -39,7 +39,7 @@ legitimate domain 1, doppelgdanger domain 1, doppelgdanger domain 2, ...
 ```
 
 ## Citation
-Please cite our paper when you use this list.
+Please cite our paper when you use the lists we provide.
 
 The citation should look like this in a paper written in English (or any non-Japanese language):
 
