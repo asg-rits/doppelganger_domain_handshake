@@ -25,9 +25,9 @@ The blow are examples of domains **not** regarded as doppelgdanger domains under
 We provide the list of doppelganger domains registered to Handshake that corresponds to top-N popular domains 
 in the [Cloudflare's domain ranking](https://radar.cloudflare.com/domains).
 
-- [List of for top-100 popular domains](/doppelganger_domain_handshake_top_100.csv)
+- [List for top-100 popular domains](/doppelganger_domain_handshake_top_100.csv)
   - Ordered by the popularity of the legitimate domains
-- [List of for top-1000 popular domains](/doppelganger_domain_handshake_top_1000.csv)
+- [List for top-1000 popular domains](/doppelganger_domain_handshake_top_1000.csv)
   - Ordered alphabetically
   - The Cloudflare's list itself is not ordered by the popularity :thinking: 
 
