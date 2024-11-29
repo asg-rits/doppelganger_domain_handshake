@@ -43,11 +43,11 @@ Please cite our paper when you use the lists we provide.
 
 The citation should look like this in a paper written in English (or any non-Japanese language):
 
-> Junichi Yoshida, Soramichi Akiyama: "Quantitative Analysis of Doppelgänger Domains Registered to Decentralized Naming Service Handshake (in Japanese)", Internet and Operation Technology Symposium (IOTS), pp. ? - ?, 2024.
+> Junichi Yoshida, Soramichi Akiyama: "Quantitative Analysis of Doppelgänger Domains Registered to Decentralized Naming Service Handshake (in Japanese)", Internet and Operation Technology Symposium (IOTS), pp. 41 - 48, 2024.
 
 The citation should look like this in a paper written in Japanese:
 
-> 吉田純一, 穐山空道: "分散型ネーミングサービスHandshake に登録されたドッペルゲンガードメインの定量的調査", インターネットと運用技術シンポジウム (IOTS), pp. ? - ?, 2024.
+> 吉田純一, 穐山空道: "分散型ネーミングサービスHandshake に登録されたドッペルゲンガードメインの定量的調査", インターネットと運用技術シンポジウム (IOTS), pp. 41 - 48, 2024.
 
 ## Contact
 [Soramichi Akiyama](https://www.soramichi.jp) (College of Information Science and Engineering, Ritsumeikan University)
