@@ -1,7 +1,7 @@
 # List of Doppelganger domains registered to Handshake distributed naming service
 
 ## Preface
-We identified in our paper that many doppelgdanger domains are registered to the Handshake
+We identified in [our paper](https://www.soramichi.jp/pdf/IOTS2024.pdf) that many doppelgdanger domains are registered to the Handshake
 distributed naming service. This repository provides the list of such domains we extracted from the Handshake transactions.
 
 ## What is covered and what is not covered
@@ -39,7 +39,7 @@ legitimate domain 1, doppelgdanger domain 1, doppelgdanger domain 2, ...
 ```
 
 ## Citation
-Please cite our paper when you use the lists we provide.
+Please cite [our paper](https://www.soramichi.jp/pdf/IOTS2024.pdf) when you use the lists we provide.
 
 The citation should look like this in a paper written in English (or any non-Japanese language):
 
